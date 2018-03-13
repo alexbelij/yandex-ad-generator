@@ -1,0 +1,34 @@
+.has-error input, .has-error textarea{
+    border-color: red;
+    border-width: 2px;
+}
+
+.has-error .error-msg {
+    display: inline-block;
+    color: red;
+}
+
+.error-msg {
+    display: none;
+}
+
+.form-header {
+    font-size: 1.5em;
+    color: orange;
+}
+
+.hidden {
+    display: none;
+}
+
+.new-items {
+    margin-top: 10px;
+}
+
+textarea.ad-keywords {
+    margin-top: 10px;
+}
+
+.modal {
+    top: 50px;
+}

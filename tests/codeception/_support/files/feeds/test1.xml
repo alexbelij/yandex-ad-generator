@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-10-10 07:03">
+<shop>
+<name>mebelion.ru</name>
+
+<company>mebelion.ru</company>
+
+<url>http://mebelion.ru</url>
+
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category  id="2913">Свет</category>
+<category id="2976" parentId="2913">Люстры</category>
+<category id="2986" parentId="2976">Подвесные люстры</category>
+<category id="2984" parentId="2976">Потолочные люстры</category>
+<category id="2985" parentId="2976">Люстры на штанге</category>
+<category id="3005" parentId="2976">Хрустальные Люстры</category>
+<category id="3014" parentId="3005">Подвесные люстры</category>
+<category id="3012" parentId="3005">Потолочные люстры</category>
+<category id="3013" parentId="3005">Люстры на штанге</category>
+<category id="123261" parentId="2976">Светодиодные</category>
+<category id="2987" parentId="2913">Бра</category>
+<category id="123264" parentId="2987">На штанге с 1 плафоном</category>
+<category id="123265" parentId="2987">На штанге с 2 и более</category>
+<category id="133486" parentId="2987">Накладные</category>
+<category id="133488" parentId="2987">Подсветки для картин</category>
+<category id="3006" parentId="2987">Хрустальные Бра</category>
+<category id="2978" parentId="2913">Настольные лампы</category>
+<category id="2991" parentId="2978">Декоративные</category>
+<category id="2992" parentId="2978">Офисные</category>
+<category id="123272" parentId="2978">На прищепке и струбцине</category>
+<category id="123273" parentId="2978">Светодиодные</category>
+<category id="2979" parentId="2913">Торшеры</category>
+<category id="133489" parentId="2979">С 1 лампой</category>
+<category id="133490" parentId="2979">С 2 и более лампами</category>
+<category id="133491" parentId="2979">Светодиодные</category>
+<category id="133492" parentId="2979">Поворотные</category>
+<category id="3991" parentId="2913">Потолочные</category>
+<category id="4011" parentId="3991">Накладные</category>
+<category id="4001" parentId="3991">Встраиваемые</category>
+<category id="2980" parentId="3991">Настенно-потолочные</category>
+<category id="2993" parentId="2980">Встраиваемые светильники</category>
+<category id="2994" parentId="2980">Накладные светильники</category>
+<category id="2995" parentId="2980">Светильники на штанге</category>
+<category id="123262" parentId="3991">Точечные</category>
+<category id="123263" parentId="3991">Светодиодные</category>
+<category id="114511" parentId="3991">С вентилятором</category>
+<category id="5321" parentId="2913">Споты и Поворотные</category>
+<category id="5341" parentId="5321">Встраиваемые </category>
+<category id="3003" parentId="5321">Споты</category>
+<category id="5371" parentId="3003">С 1 лампой</category>
+<category id="5381" parentId="3003">С 2 лампами</category>
+<category id="5391" parentId="3003">С 3 лампами</category>
+<category id="5401" parentId="3003">С 4 лампами</category>
+<category id="5411" parentId="3003">Более 4 ламп</category>
+<category id="5351" parentId="5321">Накладные</category>
+<category id="3096" parentId="5321">Карданные</category>
+<category id="3113" parentId="3096">Встраиваемые светильники</category>
+<category id="3114" parentId="3096">Накладные светильники</category>
+<category id="3115" parentId="3096">Светильники на штанге</category>
+<category id="3117" parentId="3096">Трековые светильники</category>
+<category id="5361" parentId="5321">Трековые</category>
+<category id="2982" parentId="2913">Точечные</category>
+<category id="3001" parentId="2982">Встраиваемые</category>
+<category id="3002" parentId="2982">Накладные</category>
+<category id="123266" parentId="2982">Настольные лампы</category>
+<category id="2981" parentId="2982">Споты</category>
+<category id="2996" parentId="2981">С 1 лампой</category>
+<category id="2997" parentId="2981">С 2 лампами</category>
+<category id="2998" parentId="2981">С 3 лампами</category>
+<category id="2999" parentId="2981">С 4 лампами</category>
+<category id="3000" parentId="2981">Более 4 ламп</category>
+<category id="123268" parentId="2982">Светодиодные</category>
+<category id="123269" parentId="2982">Трековые</category>
+<category id="3202" parentId="2913">Комплектующие</category>
+<category id="3203" parentId="3202">Лампочки</category>
+<category id="3209" parentId="3203">Накаливания</category>
+<category id="3210" parentId="3203">Галогеновые</category>
+<category id="3211" parentId="3203">Компактные люминесцентные (КЛЛ)</category>
+<category id="3212" parentId="3203">Люминесцентные</category>
+<category id="3213" parentId="3203">Металлогалогеновые и Ксеноновые</category>
+<category id="3214" parentId="3203">Светодиодные (LED)</category>
+<category id="3204" parentId="3202">Блоки защиты и питания</category>
+<category id="3216" parentId="3204">Блоки питания</category>
+<category id="3205" parentId="3202">Выключатели</category>
+<category id="3220" parentId="3205">Датчики движения и освещенности</category>
+<category id="3206" parentId="3202">Розетки и Провода</category>
+<category id="3222" parentId="3206">Блоки розеток наземные</category>
+<category id="3226" parentId="3206">Сетевые фильтры</category>
+<category id="3207" parentId="3202">Плафоны</category>
+<category id="3228" parentId="3207">Металлические</category>
+<category id="3229" parentId="3207">Стеклянные</category>
+<category id="3230" parentId="3207">Текстильные</category>
+<category id="3208" parentId="3202">Трансформаторы и ПРА</category>
+<category id="3236" parentId="3208">Трансформаторы электронные</category>
+<category id="3241" parentId="3202">Средства для ухода</category>
+<category id="3023" parentId="2913">Для детской</category>
+<category id="3024" parentId="3023">Люстры и Потолочные</category>
+<category id="3030" parentId="3024">Люстры на штанге</category>
+<category id="3029" parentId="3024">Потолочные люстры</category>
+<category id="3031" parentId="3024">Подвесные люстры</category>
+<category id="4061" parentId="3024">Накладные светильники</category>
+<category id="4071" parentId="3024">Светильники на штанге</category>
+<category id="4081" parentId="3024">Подвесные светильники</category>
+<category id="3025" parentId="3023">Бра и Настенные</category>
+<category id="3032" parentId="3025">Бра</category>
+<category id="3034" parentId="3025">Накладные светильники</category>
+<category id="3026" parentId="3023">Настенно-потолочные и Споты</category>
+<category id="3036" parentId="3026">Накладные светильники</category>
+<category id="3037" parentId="3026">Светильники на штанге</category>
+<category id="3027" parentId="3023">Настольные лампы</category>
+<category id="133916" parentId="3023">Ночники</category>
+<category id="3038" parentId="2913">Для ванной</category>
+<category id="3039" parentId="3038">Настенные</category>
+<category id="3045" parentId="3039">Накладные светильники</category>
+<category id="3046" parentId="3039">Светильники на штанге</category>
+<category id="3040" parentId="3038">Настенно-потолочные</category>
+<category id="3047" parentId="3040">Встраиваемые светильники</category>
+<category id="3048" parentId="3040">Накладные светильники</category>
+<category id="3041" parentId="3038">Потолочные</category>
+<category id="3050" parentId="3041">Встраиваемые светильники</category>
+<category id="3051" parentId="3041">Накладные светильники</category>
+<category id="3043" parentId="3038">Специальные для ванной</category>
+<category id="3042" parentId="3038">Точечные</category>
+<category id="3053" parentId="3042">Встраиваемые светильники</category>
+<category id="3054" parentId="3042">Накладные светильники</category>
+<category id="3055" parentId="3042">Споты</category>
+<category id="3056" parentId="2913">Для кухни</category>
+<category id="3057" parentId="3056">Настенные</category>
+<category id="3063" parentId="3057">Накладные светильники</category>
+<category id="3064" parentId="3057">Светильники на штанге</category>
+<category id="3058" parentId="3056">Настенно-потолочные</category>
+<category id="3065" parentId="3058">Встраиваемые светильники</category>
+<category id="3066" parentId="3058">Накладные светильники</category>
+<category id="3059" parentId="3056">Потолочные</category>
+<category id="3068" parentId="3059">Встраиваемые светильники</category>
+<category id="3069" parentId="3059">Накладные светильники</category>
+<category id="3070" parentId="3059">Светильники на штанге</category>
+<category id="3071" parentId="3059">Подвесные светильники</category>
+<category id="3061" parentId="3056">Специальные для кухни</category>
+<category id="3060" parentId="3056">Точечные</category>
+<category id="3072" parentId="3060">Встраиваемые светильники</category>
+<category id="3073" parentId="3060">Накладные светильники</category>
+<category id="3074" parentId="3060">Споты</category>
+<category id="123271" parentId="3056">Мебельные</category>
+<category id="3132" parentId="2913">Уличные</category>
+<category id="3133" parentId="3132">Наземные светильники</category>
+<category id="3139" parentId="3133">Садовые фигуры</category>
+<category id="3140" parentId="3133">Встраиваемые в дорогу светильники</category>
+<category id="3141" parentId="3133">Наземные низкие светильники</category>
+<category id="3142" parentId="3133">Наземные высокие светильники</category>
+<category id="3143" parentId="3133">Фонарные столбы</category>
+<category id="3134" parentId="3132">Настенные</category>
+<category id="3144" parentId="3134">Встраиваемые светильники</category>
+<category id="3145" parentId="3134">Накладные светильники</category>
+<category id="3146" parentId="3134">Светильники на штанге</category>
+<category id="3135" parentId="3132">Настенно-потолочные</category>
+<category id="3147" parentId="3135">Встраиваемые светильники</category>
+<category id="3148" parentId="3135">Накладные светильники</category>
+<category id="3149" parentId="3135">Светильники на штанге</category>
+<category id="3136" parentId="3132">Потолочные</category>
+<category id="3150" parentId="3136">Встраиваемые светильники</category>
+<category id="3151" parentId="3136">Накладные светильники</category>
+<category id="3152" parentId="3136">Светильники на штанге</category>
+<category id="3153" parentId="3136">Подвесные светильники</category>
+<category id="3138" parentId="3132">Специальные светильники</category>
+<category id="3157" parentId="3138">Встраиваемые в дорогу светильники</category>
+<category id="3158" parentId="3138">Подсветки</category>
+<category id="3159" parentId="3138">Подсветки наземные низкие</category>
+<category id="3162" parentId="3138">Фонари кемпинговые и карманные</category>
+<category id="16821" parentId="3138">Настольные лампы</category>
+<category id="3137" parentId="3132">Прожекторы</category>
+<category id="3154" parentId="3137">Настенные прожекторы</category>
+<category id="3155" parentId="3137">Настенно-наземные прожекторы</category>
+<category id="3156" parentId="3137">Наземные прожекторы</category>
+<category id="133497" parentId="3132">Светодиодные</category>
+<category id="3163" parentId="2913">Ленты и Гирлянды</category>
+<category id="3174" parentId="3163">Ленты светодиодные</category>
+<category id="3173" parentId="3163">Дюралайт</category>
+<category id="3164" parentId="3163">Гирлянды в виде нити</category>
+<category id="3170" parentId="3164">Гирлянды Мишура</category>
+<category id="3171" parentId="3164">Гирлянды Нить</category>
+<category id="3172" parentId="3164">Гирлянды Супернить</category>
+<category id="3166" parentId="3163">Гирлянды на деревья</category>
+<category id="3165" parentId="3163">Гирлянды на плоскости</category>
+<category id="3175" parentId="3165">Бахрома световая</category>
+<category id="3176" parentId="3165">Занавесы световые</category>
+<category id="3178" parentId="3165">Сети световые</category>
+<category id="3168" parentId="3163">Гирлянды с насадками</category>
+<category id="3169" parentId="3163">Комплектующие</category>
+<category id="3179" parentId="3169">Для гирлянд</category>
+<category id="3180" parentId="3169">Для дюралайта</category>
+<category id="3181" parentId="3169">Для лент и модулей светодиодных</category>
+<category id="3183" parentId="2913">Световые фигуры</category>
+<category id="3184" parentId="3183">Садовые фигуры</category>
+<category id="3187" parentId="3183">Новогодние фигуры</category>
+<category id="3193" parentId="3187">Деды Морозы и Снеговики</category>
+<category id="3194" parentId="3187">Звезды и Снежинки</category>
+<category id="3195" parentId="3187">Звери и Птицы</category>
+<category id="3196" parentId="3187">Колокола и Шары</category>
+<category id="3197" parentId="3187">Композиции и Панно</category>
+<category id="3185" parentId="3183">Световые деревья</category>
+<category id="3189" parentId="3185">Ели световые</category>
+<category id="3186" parentId="3183">Настольные лампы</category>
+<category id="3188" parentId="3183">Другие фигуры</category>
+<category id="3198" parentId="3188">Архитектурные фигуры</category>
+<category id="3199" parentId="3188">Звери и Птицы</category>
+<category id="3200" parentId="3188">Композиции и Панно</category>
+<category id="3093" parentId="2913">Технические</category>
+<category id="5331" parentId="3093">Карданные</category>
+<category id="133493" parentId="5331">Встраиваемые</category>
+<category id="133494" parentId="5331">Накладные</category>
+<category id="133496" parentId="5331">На штанге</category>
+<category id="3097" parentId="3093">Настенные</category>
+<category id="3118" parentId="3097">Встраиваемые светильники</category>
+<category id="3119" parentId="3097">Накладные светильники</category>
+<category id="3098" parentId="3093">Настенно-потолочные</category>
+<category id="3121" parentId="3098">Встраиваемые светильники</category>
+<category id="3122" parentId="3098">Накладные светильники</category>
+<category id="3123" parentId="3098">Светильники на штанге</category>
+<category id="3099" parentId="3093">Потолочные</category>
+<category id="3124" parentId="3099">Встраиваемые светильники</category>
+<category id="3125" parentId="3099">Накладные светильники</category>
+<category id="3126" parentId="3099">Светильники на штанге</category>
+<category id="3127" parentId="3099">Подвесные светильники</category>
+<category id="3100" parentId="3093">Специальные</category>
+<category id="3128" parentId="3100">Аварийные светильники</category>
+<category id="3130" parentId="3100">Для потолка Армстронг</category>
+<category id="3131" parentId="3100">Подсветки</category>
+<category id="3080" parentId="3100">Мебельные светильники</category>
+<category id="3094" parentId="3093">Трековые</category>
+<category id="3101" parentId="3094">Готовые комплекты</category>
+<category id="3102" parentId="3094">Карданные светильники</category>
+<category id="3104" parentId="3094">Светильники на штанге</category>
+<category id="3105" parentId="3094">Подвесные светильники</category>
+<category id="3106" parentId="3094">Точечные светильники</category>
+<category id="3095" parentId="3094">Элементы трековых систем</category>
+<category id="3107" parentId="3095">Заглушки</category>
+<category id="3108" parentId="3095">Подвесы</category>
+<category id="3111" parentId="3095">Соединители</category>
+<category id="3112" parentId="3095">Треки</category>
+<category id="123270" parentId="3093">Светодиодные</category>
+<category id="133498" parentId="2913">Светодиодные</category>
+<category id="133499" parentId="133498">Бра</category>
+<category id="133506" parentId="133499">Накладные</category>
+<category id="133507" parentId="133499">На штанге</category>
+<category id="133500" parentId="133498">Люстры</category>
+<category id="133508" parentId="133500">Накладные</category>
+<category id="133509" parentId="133500">Подвесные</category>
+<category id="133510" parentId="133500">На штанге</category>
+<category id="133501" parentId="133498">Настольные лампы</category>
+<category id="133511" parentId="133501">Декоративные</category>
+<category id="133512" parentId="133501">Офисные</category>
+<category id="133513" parentId="133501">Ночники</category>
+<category id="133502" parentId="133498">Торшеры</category>
+<category id="133503" parentId="133498">Потолочные светильники</category>
+<category id="133514" parentId="133503">Встраиваемые</category>
+<category id="133515" parentId="133503">Накладные светильники</category>
+<category id="133516" parentId="133503">Споты</category>
+<category id="133517" parentId="133503">Точечные светильники</category>
+<category id="133504" parentId="133498">Специальные</category>
+<category id="133519" parentId="133504">Аварийные</category>
+<category id="133520" parentId="133504">Для потолка Армстронг</category>
+<category id="133521" parentId="133504">Мебельные</category>
+<category id="133522" parentId="133504">Ленты светодиодные</category>
+<category id="133523" parentId="133504">Подсветки</category>
+<category id="133505" parentId="133498">Уличные светильники</category>
+<category id="133524" parentId="133505">Наземные светильники</category>
+<category id="133525" parentId="133505">Настенные</category>
+<category id="133526" parentId="133505">Потолочные светильники</category>
+<category id="133527" parentId="133505">Специальные</category>
+<category id="133528" parentId="133505">Прожекторы</category>
+<category id="3075" parentId="2913">Специальные</category>
+<category id="3076" parentId="3075">Аварийные светильники</category>
+<category id="3082" parentId="3076">Дежурные светильники</category>
+<category id="3077" parentId="3075">Для ванной</category>
+<category id="3078" parentId="3075">Для кухни</category>
+<category id="3079" parentId="3075">Для потолка Армстронг</category>
+<category id="113451" parentId="3075">Ленты светодиодные</category>
+<category id="3081" parentId="3075">Подсветки</category>
+<category id="3088" parentId="3081">Встраиваемые</category>
+<category id="3089" parentId="3081">Накладные</category>
+<category id="3090" parentId="3081">На штанге</category>
+<category id="3091" parentId="3081">Ночники</category>
+<category id="3092" parentId="3081">Подсветки для картин</category>
+<category  id="123503">Мебель</category>
+<category id="123504" parentId="123503">Мебель для хранения</category>
+<category id="123516" parentId="123504">Комоды и Тумбы</category>
+<category id="123588" parentId="123516">Комоды</category>
+<category id="123589" parentId="123516">Тумбочки</category>
+<category id="123590" parentId="123516">Тумбочки офисные</category>
+<category id="123591" parentId="123516">Тумбы</category>
+<category id="123592" parentId="123516">Тумбы навесные</category>
+<category id="123593" parentId="123516">Тумбы под ТВ</category>
+<category id="123517" parentId="123504">Обувницы</category>
+<category id="123594" parentId="123517">Банкетки-стеллажи</category>
+<category id="123596" parentId="123517">Стеллажи</category>
+<category id="123597" parentId="123517">Тумбы</category>
+<category id="123598" parentId="123517">Тумбочки</category>
+<category id="123599" parentId="123517">Шкафы</category>
+<category id="123518" parentId="123504">Полки и Стеллажи</category>
+<category id="123600" parentId="123518">Полки книжные</category>
+<category id="123601" parentId="123518">Полки навесные</category>
+<category id="123602" parentId="123518">Стеллажи</category>
+<category id="123603" parentId="123518">Стеллажи детские</category>
+<category id="123605" parentId="123518">Стеллажи книжные</category>
+<category id="123606" parentId="123518">Стеллажи-колонки</category>
+<category id="123607" parentId="123518">Стеллажи комбинированные</category>
+<category id="123608" parentId="123518">Стеллажи под ТВ</category>
+<category id="123519" parentId="123504">Стенки</category>
+<category id="123609" parentId="123519">Стенки для гостиной</category>
+<category id="123610" parentId="123519">Стенки для детской</category>
+<category id="123612" parentId="123519">Стенки для прихожей</category>
+<category id="123520" parentId="123504">Мебель для ТВ</category>
+<category id="123614" parentId="123520">ТВ-тумбы</category>
+<category id="123615" parentId="123520">ТВ-стеллажи</category>
+<category id="123616" parentId="123520">ТВ-подставки</category>
+<category id="123521" parentId="123504">Шкафы</category>
+<category id="123617" parentId="123521">Для белья</category>
+<category id="123618" parentId="123521">Книжные</category>
+<category id="123619" parentId="123521">Комбинированные</category>
+<category id="123620" parentId="123521">Платяные</category>
+<category id="123621" parentId="123521">Шкафы-витрины</category>
+<category id="123622" parentId="123521">Шкафы-колонки</category>
+<category id="123624" parentId="123521">Шкафы-купе</category>
+<category id="123507" parentId="123503">Столы и Подставки</category>
+<category id="123535" parentId="123507">Журнальные столы</category>
+<category id="133871" parentId="123535">На колесиках</category>
+<category id="134048" parentId="123535">Прикроватные и придиванные</category>
+<category id="133872" parentId="123535">Стеклянные столы</category>
+<category id="123682" parentId="123535">Столы-трансформеры</category>
+<category id="123536" parentId="123507">Компьютерные столы</category>
+<category id="123683" parentId="123536">Столы с полкой для клавиатуры</category>
+<category id="123686" parentId="123536">Столы с надстройкой</category>
+<category id="123537" parentId="123507">Кухонные столы</category>
+<category id="123687" parentId="123537">Столы обеденные</category>
+<category id="123688" parentId="123537">Столы сервировочные</category>
+<category id="123689" parentId="123537">Столы-трансформеры</category>
+<category id="134045" parentId="123537">Наборы обеденные</category>
+<category id="123690" parentId="134045">Уголки</category>
+<category id="123691" parentId="134045">Наборы</category>
+<category id="123685" parentId="123507">Письменные столы</category>
+<category id="123676" parentId="123685">Столы учебные</category>
+<category id="123684" parentId="123685">Столы офисные</category>
+<category id="123538" parentId="123507">Подставки</category>
+<category id="123692" parentId="123538">Газетницы</category>
+<category id="123694" parentId="123538">Подставки</category>
+<category id="123698" parentId="123538">Подставки под ТВ</category>
+<category id="123699" parentId="123538">Подставки для цветов</category>
+<category id="134054" parentId="123538">Придиванные столы</category>
+<category id="134049" parentId="123538">Прикроватные столы</category>
+<category id="134050" parentId="123538">Подставки к столам и партам</category>
+<category id="123539" parentId="123507">Туалетные столы</category>
+<category id="123700" parentId="123539">Столы без зеркала</category>
+<category id="123701" parentId="123539">Столы с зеркалом</category>
+<category id="123702" parentId="123539">Трельяжи</category>
+<category id="123703" parentId="123539">Трюмо</category>
+<category id="123510" parentId="123503">Мебель для сидения</category>
+<category id="123554" parentId="123510">Банкетки, Пуфы, Сундуки</category>
+<category id="123753" parentId="123554">Банкетки</category>
+<category id="123754" parentId="123554">Банкетки-стеллажи</category>
+<category id="123755" parentId="123554">Банкетки-тумбы</category>
+<category id="123756" parentId="123554">Пуфы</category>
+<category id="123757" parentId="123554">Пуфы-сундуки</category>
+<category id="123758" parentId="123554">Сундуки</category>
+<category id="123759" parentId="123554">Банкетки-сундуки</category>
+<category id="123555" parentId="123510">Кресла</category>
+<category id="123761" parentId="123555">Кресла</category>
+<category id="123762" parentId="123555">Кресла-качалки</category>
+<category id="134051" parentId="123555">Кресла-мешки</category>
+<category id="123770" parentId="123555">Офисные кресла</category>
+<category id="123763" parentId="123555">Мягкие кресла</category>
+<category id="123556" parentId="123510">Компьютерные кресла</category>
+<category id="123768" parentId="123556">Компьютерные кресла</category>
+<category id="134052" parentId="123556">Кресла для руководителя</category>
+<category id="123771" parentId="123556">Офисные кресла и стулья</category>
+<category id="123769" parentId="123556">Детские стулья</category>
+<category id="133868" parentId="123510">Стулья и Табуреты</category>
+<category id="123557" parentId="133868">Стулья</category>
+<category id="123773" parentId="123557">Стулья</category>
+<category id="134053" parentId="123557">Жесткие стулья</category>
+<category id="123774" parentId="123557">Мягкие стулья</category>
+<category id="123776" parentId="123557">Уличные</category>
+<category id="123558" parentId="133868">Табуреты</category>
+<category id="123778" parentId="123558">Табуреты</category>
+<category id="123780" parentId="123558">Складные</category>
+<category id="133869" parentId="123510">Барные стулья и кресла</category>
+<category id="123760" parentId="133869">Барные кресла</category>
+<category id="123772" parentId="133869">Барные стулья</category>
+<category id="123777" parentId="133869">Барные табуреты</category>
+<category id="123513" parentId="123503">Мебель для лежания</category>
+<category id="123571" parentId="123513">Диваны</category>
+<category id="123816" parentId="123571">Диваны</category>
+<category id="123817" parentId="123571">Диваны-кровати</category>
+<category id="123818" parentId="123571">Кухонные</category>
+<category id="123572" parentId="123513">Кушетки и Софы</category>
+<category id="123820" parentId="123572">Кушетки</category>
+<category id="123821" parentId="123572">Софы</category>
+<category id="123573" parentId="123513">Кровати</category>
+<category id="123824" parentId="123573">Детские</category>
+<category id="123825" parentId="123573">Односпальные</category>
+<category id="123826" parentId="123573">Полутораспальные</category>
+<category id="123827" parentId="123573">Двуспальные</category>
+<category id="123574" parentId="123513">Матрасы</category>
+<category id="123830" parentId="123574">Односпальные</category>
+<category id="123831" parentId="123574">Полутораспальные</category>
+<category id="123832" parentId="123574">Двуспальные</category>
+<category id="123575" parentId="123513">Основания</category>
+<category id="123833" parentId="123575">Основания</category>
+<category id="123834" parentId="123575">Ортопедические основания</category>
+<category id="123576" parentId="123513">Шезлонги и Лежаки</category>
+<category id="123505" parentId="123503">Прихожая</category>
+<category id="123523" parentId="123505">Банкетки, Пуфы, Сундуки</category>
+<category id="123627" parentId="123523">Банкетки</category>
+<category id="123628" parentId="123523">Банкетки-стеллажи</category>
+<category id="123629" parentId="123523">Банкетки-сундуки</category>
+<category id="123630" parentId="123523">Банкетки-тумбы</category>
+<category id="123631" parentId="123523">Пуфы</category>
+<category id="123632" parentId="123523">Пуфы-сундуки</category>
+<category id="123633" parentId="123523">Сундуки</category>
+<category id="123524" parentId="123505">Вешалки</category>
+<category id="134033" parentId="123524">Вешалки-стойки</category>
+<category id="134034" parentId="123524">Гардеробные</category>
+<category id="123634" parentId="123524">Корпусные</category>
+<category id="134035" parentId="123524">Костюмные</category>
+<category id="123636" parentId="123524">Настенные</category>
+<category id="123525" parentId="123505">Мебель с зеркалом</category>
+<category id="123639" parentId="123525">Зеркала настенные</category>
+<category id="123642" parentId="123525">Трюмо</category>
+<category id="134038" parentId="123525">Столы туалетные</category>
+<category id="123526" parentId="123505">Обувницы</category>
+<category id="123644" parentId="123526">Банкетки-стеллажи</category>
+<category id="123646" parentId="123526">Стеллажи</category>
+<category id="134036" parentId="123526">Тумбы и Шкафы</category>
+<category id="134042" parentId="123505">Стенки</category>
+<category id="134031" parentId="134042">Готовые стенки для прихожей</category>
+<category id="134032" parentId="134042">Модульные стенки для прихожей</category>
+<category id="123527" parentId="123505">Тумбы и Шкафы</category>
+<category id="123650" parentId="123527">Комоды и Тумбы</category>
+<category id="123651" parentId="123527">Стеллажи</category>
+<category id="123655" parentId="123527">Шкафы-купе</category>
+<category id="123656" parentId="123527">Шкафы платяные</category>
+<category id="134037" parentId="123656">Шкафы прямые</category>
+<category id="134039" parentId="123656">Шкафы угловые</category>
+<category id="123508" parentId="123503">Кабинет и Офис</category>
+<category id="123540" parentId="123508">Стенки и Наборы</category>
+<category id="123705" parentId="123540">Гарнитуры для кабинета</category>
+<category id="123706" parentId="123540">Гарнитуры для руководителя</category>
+<category id="123710" parentId="123540">Наборы стульев</category>
+<category id="123541" parentId="123508">Кресла и Стулья</category>
+<category id="123711" parentId="123541">Компьютерные кресла</category>
+<category id="123712" parentId="123541">Компьютерные стулья</category>
+<category id="123713" parentId="123541">Офисные стулья</category>
+<category id="123714" parentId="123541">Офисные кресла</category>
+<category id="123542" parentId="123508">Столы и Стойки</category>
+<category id="123715" parentId="123542">Журнальные столы</category>
+<category id="123716" parentId="123542">Компьютерные столы</category>
+<category id="123717" parentId="123542">Офисные столы</category>
+<category id="123718" parentId="123542">Письменные столы</category>
+<category id="123719" parentId="123542">Приставные столы</category>
+<category id="123720" parentId="123542">Стойки ресепшн</category>
+<category id="123721" parentId="123542">Столы для переговоров</category>
+<category id="123543" parentId="123508">Тумбы и Тумбочки</category>
+<category id="123723" parentId="123543">Антресоли</category>
+<category id="123724" parentId="123543">Тумбы</category>
+<category id="123725" parentId="123543">Тумбы комбинированные</category>
+<category id="123726" parentId="123543">Тумбочки</category>
+<category id="123544" parentId="123508">Полки и Стеллажи</category>
+<category id="123728" parentId="123544">Книжные стеллажи</category>
+<category id="123729" parentId="123544">Комбинированные</category>
+<category id="123730" parentId="123544">Стеллажи</category>
+<category id="123731" parentId="123544">Стеллажи-колонки</category>
+<category id="123732" parentId="123544">Полки</category>
+<category id="123733" parentId="123544">Полки книжные</category>
+<category id="123545" parentId="123508">Шкафы</category>
+<category id="123734" parentId="123545">Книжные</category>
+<category id="123735" parentId="123545">Комбинированные</category>
+<category id="123737" parentId="123545">Платяные</category>
+<category id="123738" parentId="123545">Шкафы-витрины</category>
+<category id="123739" parentId="123545">Шкафы-колонки</category>
+<category id="123740" parentId="123545">Шкафы-купе</category>
+<category id="123511" parentId="123503">Детская</category>
+<category id="123559" parentId="123511">Гарнитуры и Наборы</category>
+<category id="123560" parentId="123511">Диваны и Софы</category>
+<category id="123561" parentId="123511">Кровати и Матрасы</category>
+<category id="123782" parentId="123561">Кровати</category>
+<category id="123783" parentId="123561">Кровати-чердаки</category>
+<category id="123784" parentId="123561">Многофункциональные</category>
+<category id="123562" parentId="123511">Корпусная мебель</category>
+<category id="123786" parentId="123562">Комоды</category>
+<category id="123787" parentId="123562">Полки</category>
+<category id="123788" parentId="123562">Стенки</category>
+<category id="123789" parentId="123562">Тумбы</category>
+<category id="123790" parentId="123562">Тумбочки</category>
+<category id="123791" parentId="123562">Шкафы</category>
+<category id="123563" parentId="123511">Кресла, Стулья, Табуреты</category>
+<category id="123792" parentId="123563">Детские кресла</category>
+<category id="123793" parentId="123563">Компьютерные кресла</category>
+<category id="123794" parentId="123563">Компьютерные стулья</category>
+<category id="123564" parentId="123511">Мебель для учебы</category>
+<category id="123797" parentId="123564">Компьютерные столы</category>
+<category id="123800" parentId="123564">Письменные столы</category>
+<category id="123801" parentId="123564">Учебные столы</category>
+<category id="123514" parentId="123503">Спальня</category>
+<category id="123577" parentId="123514">Гарнитуры и Наборы</category>
+<category id="123835" parentId="123577">Гарнитуры спальные</category>
+<category id="123836" parentId="123577">Наборы спальные</category>
+<category id="123578" parentId="123514">Кровати</category>
+<category id="123838" parentId="123578">Односпальные</category>
+<category id="123839" parentId="123578">Полутораспальные</category>
+<category id="123840" parentId="123578">Двуспальные</category>
+<category id="123579" parentId="123514">Матрасы и Основания</category>
+<category id="123842" parentId="123579">Матрасы односпальные</category>
+<category id="123843" parentId="123579">Матрасы полутораспальные</category>
+<category id="123844" parentId="123579">Матрасы двуспальные</category>
+<category id="123845" parentId="123579">Основания</category>
+<category id="123846" parentId="123579">Основания ортопедические</category>
+<category id="123580" parentId="123514">Мебель с зеркалом</category>
+<category id="123848" parentId="123580">Зеркала настенные</category>
+<category id="123849" parentId="123580">Комоды туалетные</category>
+<category id="123850" parentId="123580">Столы туалетные</category>
+<category id="123851" parentId="123580">Трельяжи</category>
+<category id="123852" parentId="123580">Трюмо</category>
+<category id="123581" parentId="123514">Комоды и Тумбы</category>
+<category id="123854" parentId="123581">Комоды</category>
+<category id="123855" parentId="123581">Комоды туалетные</category>
+<category id="123856" parentId="123581">Тумбы</category>
+<category id="123582" parentId="123514">Шкафы</category>
+<category id="123858" parentId="123582">Для белья</category>
+<category id="123859" parentId="123582">Комбинированные</category>
+<category id="123860" parentId="123582">Платяные</category>
+<category id="123861" parentId="123582">Шкафы-колонки</category>
+<category id="123862" parentId="123582">Шкафы-купе</category>
+<category id="123506" parentId="123503">Гостиная</category>
+<category id="123528" parentId="123506">Стенки и Гарнитуры</category>
+<category id="123529" parentId="123506">Диваны</category>
+<category id="123658" parentId="123529">Диваны</category>
+<category id="123659" parentId="123529">Диваны-кровати</category>
+<category id="123530" parentId="123506">Журнальные столы</category>
+<category id="123531" parentId="123506">Кресла, Стулья, Пуфы</category>
+<category id="123660" parentId="123531">Кресла</category>
+<category id="123661" parentId="123531">Стулья</category>
+<category id="123662" parentId="123531">Пуфы</category>
+<category id="123532" parentId="123506">Комоды и Тумбы</category>
+<category id="123663" parentId="123532">Комоды</category>
+<category id="123664" parentId="123532">Комбинированные тумбы</category>
+<category id="123665" parentId="123532">Тумбы</category>
+<category id="123666" parentId="123532">Тумбы под ТВ</category>
+<category id="123533" parentId="123506">Шкафы</category>
+<category id="123667" parentId="123533">Шкафы для белья</category>
+<category id="123668" parentId="123533">Шкафы книжные</category>
+<category id="123669" parentId="123533">Шкафы комбинированные</category>
+<category id="123670" parentId="123533">Шкафы платяные</category>
+<category id="123671" parentId="123533">Шкафы-витрины</category>
+<category id="123672" parentId="123533">Шкафы-колонки</category>
+<category id="123673" parentId="123533">Шкафы-купе</category>
+<category id="123509" parentId="123503">Кухня и Столовая</category>
+<category id="123547" parentId="123509">Наборы обеденные</category>
+<category id="123548" parentId="123509">Серванты и Шкафы</category>
+<category id="123741" parentId="123548">Буфеты</category>
+<category id="123743" parentId="123548">Шкафы</category>
+<category id="123550" parentId="123509">Столы обеденные</category>
+<category id="123551" parentId="123509">Кресла, Стулья, Табуреты</category>
+<category id="123552" parentId="123509">Уголки и Диваны</category>
+<category id="123744" parentId="123552">Диваны</category>
+<category id="123746" parentId="123552">Уголки кухонные</category>
+<category id="123512" parentId="123503">Специальная мебель</category>
+<category id="123565" parentId="123512">Гладильные доски</category>
+<category id="123566" parentId="123512">Мебель для ТВ</category>
+<category id="123803" parentId="123566">Подставки под ТВ</category>
+<category id="123804" parentId="123566">Стеллажи под ТВ</category>
+<category id="123805" parentId="123566">ТВ-тумбы</category>
+<category id="123567" parentId="123512">Перегородки и Ширмы</category>
+<category id="123568" parentId="123512">Подставки</category>
+<category id="123806" parentId="123568">Газетницы</category>
+<category id="123808" parentId="123568">Для ноутбука</category>
+<category id="123810" parentId="123568">Под системный блок</category>
+<category id="123811" parentId="123568">Под ТВ</category>
+<category id="123569" parentId="123512">Столы сервировочные</category>
+<category id="123515" parentId="123503">Мягкая мебель</category>
+<category id="123584" parentId="123515">Диваны</category>
+<category id="133544" parentId="123584">Прямые</category>
+<category id="133545" parentId="123584">Угловые</category>
+<category id="123585" parentId="123515">Кресла</category>
+<category id="123868" parentId="123585">Кресла</category>
+<category id="123587" parentId="123515">Пуфы</category>
+<category id="133543" parentId="123515">Детские диваны</category>
+<category id="3646" parentId="123503">Комплектующие</category>
+<category id="120441" parentId="3646">Для кроватей</category>
+<category id="115151" parentId="120441">Короба</category>
+<category id="120541" parentId="120441">Лестницы</category>
+<category id="116371" parentId="120441">Ограничители</category>
+<category id="116361" parentId="120441">Спинки</category>
+<category id="120551" parentId="120441">Ящики</category>
+<category id="17061" parentId="3646">Надстройки</category>
+<category id="3659" parentId="3646">Полки</category>
+<category id="3663" parentId="3659">Для шкафов</category>
+<category id="115181" parentId="3659">Под клавиатуру</category>
+<category id="115171" parentId="3646">Фасады</category>
+<category id="120451" parentId="3646">Прочее</category>
+<category id="117081" parentId="120451">Двери</category>
+<category id="3651" parentId="120451">Цоколи и Карнизы</category>
+<category id="116351" parentId="120451">Штанги</category>
+<category  id="123383">Декор</category>
+<category id="123408" parentId="123383">Фонтаны</category>
+<category id="133428" parentId="123383">Камины</category>
+<category id="133429" parentId="133428">Биокамины</category>
+<category id="133430" parentId="133428">Электрокамины</category>
+<category id="123384" parentId="123383">Декоративные сосуды</category>
+<category id="123392" parentId="123384">Банки и Бутылки</category>
+<category id="123397" parentId="123384">Блюда</category>
+<category id="123398" parentId="123384">Напольные вазы</category>
+<category id="123399" parentId="123384">Настольные вазы</category>
+<category id="123396" parentId="123384">Чаши</category>
+<category id="123385" parentId="123383">Искусственные растения</category>
+<category id="123401" parentId="123385">Букеты</category>
+<category id="123468" parentId="123385">Ветки</category>
+<category id="123500" parentId="123385">Деревья</category>
+<category id="123469" parentId="123385">Зелень</category>
+<category id="123402" parentId="123385">Растения в горшке</category>
+<category id="123403" parentId="123385">Цветы</category>
+<category id="123400" parentId="123383">Шкатулки</category>
+<category id="133423" parentId="123400">Шкатулки декоративные</category>
+<category id="133424" parentId="123400">Шкатулки для украшений</category>
+<category id="123386" parentId="123383">Декоративные фигуры</category>
+<category id="123405" parentId="123386">Напольные фигуры</category>
+<category id="123467" parentId="123386">Настенные фигуры</category>
+<category id="133425" parentId="123386">Настольные фигуры</category>
+<category id="123406" parentId="133425">Статуэтки</category>
+<category id="133426" parentId="133425">Копилки</category>
+<category id="123407" parentId="123386">Мягкие игрушки</category>
+<category id="123390" parentId="123383">Источники света и аромата</category>
+<category id="123425" parentId="123390">Садовые светильники</category>
+<category id="123424" parentId="123390">Свечи</category>
+<category id="123422" parentId="123424">Ароматические свечи</category>
+<category id="133432" parentId="123424">Декоративные свечи</category>
+<category id="123427" parentId="123390">Подарочные наборы</category>
+<category id="123426" parentId="123390">Саше</category>
+<category id="123423" parentId="123390">Подсвечники</category>
+<category id="133537" parentId="123390">Проекторы</category>
+<category id="123387" parentId="123383">Декоративный текстиль</category>
+<category id="123409" parentId="123387">Подушки</category>
+<category id="123412" parentId="123387">Мягкие игрушки</category>
+<category id="123388" parentId="123383">Изображения и Рамки</category>
+<category id="123415" parentId="123388">Панно</category>
+<category id="123417" parentId="123388">Мультирамки</category>
+<category id="123418" parentId="123388">Фоторамки</category>
+<category id="123389" parentId="123383">Зеркала и Часы</category>
+<category id="123419" parentId="123389">Зеркала</category>
+<category id="123420" parentId="123389">Часы</category>
+<category id="123391" parentId="123383">Держатели и подставки</category>
+<category id="123428" parentId="123391">Вешалки и крючки</category>
+<category id="123429" parentId="123391">Держатели для бутылок</category>
+<category id="123430" parentId="123391">Держатели для книг</category>
+<category id="133431" parentId="123391">Дровницы</category>
+<category id="123431" parentId="123391">Ключницы</category>
+<category id="123432" parentId="123391">Подставки</category>
+<category id="123433" parentId="123432">Подставки для зонтов</category>
+<category id="123434" parentId="123432">Подставки для цветов</category>
+<category id="123435" parentId="123432">Подставки под блюда</category>
+<category id="123436" parentId="123432">Газетницы</category>
+<category  id="2923">Текстиль</category>
+<category id="133717" parentId="2923">Постельное белье</category>
+<category id="133725" parentId="133717">Комплекты Полутораспальные</category>
+<category id="133726" parentId="133717">Комплекты Двуспальные</category>
+<category id="133727" parentId="133717">Комплекты евростандарт</category>
+<category id="133728" parentId="133717">Комплекты Семейные</category>
+<category id="133729" parentId="133717">Комплекты Детские</category>
+<category id="133730" parentId="133717">Отдельные предметы</category>
+<category id="133759" parentId="133730">Наволочки</category>
+<category id="133760" parentId="133730">Декоративные наволочки</category>
+<category id="133761" parentId="133730">Простыни</category>
+<category id="133762" parentId="133730">Простыни на резинке</category>
+<category id="133763" parentId="133730">Пододеяльники</category>
+<category id="133718" parentId="2923">Одеяла и Подушки</category>
+<category id="133731" parentId="133718">Одеяла</category>
+<category id="133764" parentId="133731">Полутораспальные</category>
+<category id="133765" parentId="133731">Двуспальные</category>
+<category id="133766" parentId="133731">Двуспальные Евро</category>
+<category id="133767" parentId="133731">Детское в кроватку</category>
+<category id="133732" parentId="133718">Подушки</category>
+<category id="133768" parentId="133732">Подушки для сна</category>
+<category id="133877" parentId="133732">Подушки для беременных</category>
+<category id="133769" parentId="133732">Подушки ортопедические</category>
+<category id="133770" parentId="133732">Подушки на стул</category>
+<category id="133771" parentId="133732">Подушки декоративные</category>
+<category id="133772" parentId="133732">Наволочки декоративные</category>
+<category id="133719" parentId="2923">Шторы</category>
+<category id="133733" parentId="133719">Готовые комплекты</category>
+<category id="133734" parentId="133719">Портьеры</category>
+<category id="133784" parentId="133719">Гардины</category>
+<category id="133720" parentId="2923">Текстиль для Ванной и Бани</category>
+<category id="133739" parentId="133720">Полотенца</category>
+<category id="133773" parentId="133739">Одинарные полотенца</category>
+<category id="133774" parentId="133739">Наборы полотенец</category>
+<category id="133740" parentId="133720">Халаты</category>
+<category id="133776" parentId="133740">Мужские</category>
+<category id="133777" parentId="133740">Женские</category>
+<category id="133741" parentId="133720">Одежда для Бани</category>
+<category id="133742" parentId="133720">Коврики</category>
+<category id="3790" parentId="133720">Наборы для ванной</category>
+<category id="133743" parentId="133720">Шторы для ванной</category>
+<category id="133721" parentId="2923">Пледы и Покрывала</category>
+<category id="133876" parentId="133721">Наборы</category>
+<category id="133744" parentId="133721">Пледы</category>
+<category id="133779" parentId="133744">Пледы</category>
+<category id="133780" parentId="133744">Детские Пледы</category>
+<category id="133745" parentId="133721">Покрывала</category>
+<category id="133781" parentId="133745">Полутораспальные</category>
+<category id="133782" parentId="133745">Двуспальные</category>
+<category id="133783" parentId="133745">Евростандарт</category>
+<category id="133722" parentId="2923">Наматрасники</category>
+<category id="133746" parentId="133722">Односпальные</category>
+<category id="133747" parentId="133722">Полутораспальные</category>
+<category id="133748" parentId="133722">Двуспальные</category>
+<category id="133749" parentId="133722">Детские</category>
+<category id="133723" parentId="2923">Ковры и Коврики</category>
+<category id="133750" parentId="133723">Ковры интерьерные</category>
+<category id="133753" parentId="133723">Коврики для Ванной</category>
+<category id="133724" parentId="2923">Текстиль для кухни</category>
+<category id="133754" parentId="133724">Наборы</category>
+<category id="133755" parentId="133724">Скатерти и Салфетки</category>
+<category id="133756" parentId="133724">Подушки на стулья</category>
+<category id="133757" parentId="133724">Полотенца кухонные</category>
+<category id="133758" parentId="133724">Фартуки и Прихватки</category>
+<category  id="11121">Посуда</category>
+<category id="11131" parentId="11121">Для Приготовления</category>
+<category id="11261" parentId="11131">Для Варки</category>
+<category id="11291" parentId="11261">Чайники</category>
+<category id="11301" parentId="11261">Пароварки и Скороварки</category>
+<category id="11371" parentId="11261">Крышки и Ручки</category>
+<category id="11391" parentId="11131">Для Тушения</category>
+<category id="11401" parentId="11391">Сотейники</category>
+<category id="11441" parentId="11391">Кокотницы</category>
+<category id="11501" parentId="11391">Крышки</category>
+<category id="11531" parentId="11131">Для Жарки</category>
+<category id="11551" parentId="11531">Сотейники</category>
+<category id="11601" parentId="11531">Крышки</category>
+<category id="11621" parentId="11131">Для Выпекания</category>
+<category id="11661" parentId="11621">Кокотницы</category>
+<category id="11711" parentId="11621">Крышки</category>
+<category id="11821" parentId="11131">Для Гриля и Копчения</category>
+<category id="11851" parentId="11821">Коптильни</category>
+<category id="11861" parentId="11821">Мангалы</category>
+<category id="11871" parentId="11821">Вертелы и Шампуры</category>
+<category id="11891" parentId="11821">Решетки</category>
+<category id="11901" parentId="11121">Для Измельчения</category>
+<category id="11911" parentId="11901">Наборы</category>
+<category id="11931" parentId="11911">Наборы кухонных ножей</category>
+<category id="12051" parentId="11901">Специальные ножи</category>
+<category id="12111" parentId="12051">Ножи для овощей</category>
+<category id="12301" parentId="11121">Кухонные Принадлежности</category>
+<category id="12311" parentId="12301">Наборы для Кухни</category>
+<category id="12331" parentId="12311">Кухонные принадлежности</category>
+<category id="12341" parentId="12311">Подставки под горячее</category>
+<category id="12351" parentId="12311">Полотенца и Фартуки</category>
+<category id="12381" parentId="12301">Кухонная утварь</category>
+<category id="12491" parentId="12381">Ступки</category>
+<category id="12511" parentId="12301">Комплектующие для Посуды</category>
+<category id="12521" parentId="12511">Кольца и Коврики</category>
+<category id="12571" parentId="12301">Для Рейлинга</category>
+<category id="12621" parentId="12571">Подставки и Держатели</category>
+<category id="12641" parentId="12301">Текстиль и Полимеры</category>
+<category id="12651" parentId="12641">Cкатерти и Салфетки</category>
+<category id="12671" parentId="12641">Подставки под горячее</category>
+<category id="12691" parentId="12641">Прихватки и Рукавицы</category>
+<category id="12701" parentId="12301">Прочее..</category>
+<category id="13181" parentId="11121">Туристическая Посуда</category>
+<category id="13191" parentId="13181">Наборы</category>
+<category id="13231" parentId="13191">Наборы для пикника</category>
+<category id="13431" parentId="13181">Для Хранения</category>
+<category id="13481" parentId="13431">Термосы</category>
+<category id="13491" parentId="13181">Для Приготовления</category>
+<category id="13551" parentId="13491">Мангалы</category>
+<category id="13571" parentId="13491">Сковороды и Решетки-гриль</category>
+<category id="13591" parentId="13491">Шампуры и Вертелы</category>
+<category id="13831" parentId="11121">Столовая Посуда</category>
+<category id="13841" parentId="13831">Сервизы и Наборы</category>
+<category id="13861" parentId="13841">Наборы блюд</category>
+<category id="13871" parentId="13841">Наборы бокалов</category>
+<category id="13891" parentId="13841">Наборы для специй</category>
+<category id="13931" parentId="13841">Наборы рюмок и стопок</category>
+<category id="13941" parentId="13841">Наборы салатников</category>
+<category id="13961" parentId="13841">Наборы стаканов</category>
+<category id="13971" parentId="13841">Наборы столовых приборов</category>
+<category id="13981" parentId="13841">Наборы тарелок</category>
+<category id="13991" parentId="13841">Столовые сервизы</category>
+<category id="14001" parentId="13831">Посуда для Подачи на стол</category>
+<category id="14011" parentId="14001">Блюда</category>
+<category id="14021" parentId="14001">Вазы</category>
+<category id="14041" parentId="14001">Икорницы  и Кокотницы</category>
+<category id="14071" parentId="14001">Кувшины</category>
+<category id="14081" parentId="14001">Масленки и Креманки</category>
+<category id="14091" parentId="14001">Менажницы</category>
+<category id="14101" parentId="14001">Подносы</category>
+<category id="14111" parentId="14001">Салатники</category>
+<category id="14121" parentId="14001">Сахарницы</category>
+<category id="14151" parentId="13831">Посуда для 1-х блюд</category>
+<category id="14171" parentId="14151">Миски и Чаши</category>
+<category id="14191" parentId="14151">Тарелки</category>
+<category id="14201" parentId="13831">Посуда для 2-х блюд и Закусок</category>
+<category id="14211" parentId="14201">Вилки</category>
+<category id="14221" parentId="14201">Кокотницы</category>
+<category id="14291" parentId="14201">Столовые ножи</category>
+<category id="14311" parentId="13831">Посуда для Питья</category>
+<category id="14321" parentId="14311">Бокалы</category>
+<category id="14331" parentId="14311">Кружки и Чашки</category>
+<category id="14351" parentId="14311">Стаканы</category>
+<category id="14361" parentId="13831">Посуда для Десерта</category>
+<category id="14371" parentId="14361">Банки для меда</category>
+<category id="14381" parentId="14361">Блюда</category>
+<category id="14431" parentId="14361">Подставки</category>
+<category id="14441" parentId="14361">Сахарницы</category>
+<category id="14451" parentId="14361">Тарелки</category>
+<category id="14461" parentId="13831">Посуда для Сервировки</category>
+<category id="14471" parentId="14461">Емкости для зубочисток</category>
+<category id="14481" parentId="14461">Пепельницы</category>
+<category id="14501" parentId="14461">Подставки под горячее</category>
+<category id="14511" parentId="14461">Салфетницы</category>
+<category id="14531" parentId="11121">Столовые Приборы</category>
+<category id="14541" parentId="14531">Наборы</category>
+<category id="14571" parentId="14541">Наборы ложек</category>
+<category id="14581" parentId="14541">Наборы столовых ножей</category>
+<category id="120571" parentId="14531">Вилки и Ложки</category>
+<category id="14591" parentId="120571">Ложки</category>
+<category id="14631" parentId="14591">Столовые ложки</category>
+<category id="14651" parentId="120571">Вилки</category>
+<category id="14681" parentId="14651">Специальные вилки</category>
+<category id="14691" parentId="14651">Столовые вилки</category>
+<category id="14741" parentId="14531">Прочие приборы</category>
+<category id="14771" parentId="14741">Специальные вилки</category>
+<category id="14781" parentId="14741">Щипцы</category>
+<category id="14791" parentId="11121">Столовые Принадлежности</category>
+<category id="14801" parentId="14791">Бумага и Текстиль</category>
+<category id="14811" parentId="14801">Подставки под горячее</category>
+<category id="14821" parentId="14801">Скатерти и салфетки</category>
+<category id="14901" parentId="14791">Для Украшения стола</category>
+<category id="14911" parentId="14901">Вазы для цветов</category>
+<category id="14931" parentId="14901">Подсвечники</category>
+<category id="14941" parentId="14901">Принадлежности для вина</category>
+<category id="14971" parentId="14791">Для Сервировки</category>
+<category id="14981" parentId="14971">Емкости для зубочисток</category>
+<category id="15001" parentId="14971">Пепельницы</category>
+<category id="15011" parentId="14971">Подставки под горячее</category>
+<category id="15021" parentId="14971">Салфетницы</category>
+<category id="15031" parentId="14971">Скатертей и Салфеток</category>
+<category id="15041" parentId="11121">Сопутствующие товары </category>
+<category id="15111" parentId="15041">Для Уборки</category>
+<category id="15151" parentId="15111">Подставки и Держатели</category>
+<category id="15251" parentId="15041">Кухонные мелочи</category>
+<category id="15291" parentId="15251">Крышки и Пробки</category>
+<category id="15321" parentId="11121">Для Чая и Кофе</category>
+<category id="15331" parentId="15321">Сервизы и Наборы</category>
+<category id="15361" parentId="15331">Наборы блюдец и розеток</category>
+<category id="15411" parentId="15331">Чайные сервизы</category>
+<category id="15421" parentId="15321">Для заваривания Чая</category>
+<category id="15451" parentId="15421">Чайники</category>
+<category id="15461" parentId="15421">Чайники для заваривания</category>
+<category id="15471" parentId="15321">Чайная посуда</category>
+<category id="15481" parentId="15471">Блюдца</category>
+<category id="15491" parentId="15471">Кружки</category>
+<category id="15511" parentId="15471">Стаканы</category>
+<category id="15531" parentId="15471">Чайные сервизы</category>
+<category id="15611" parentId="15321">Кофейная посуда</category>
+<category id="15661" parentId="15611">Стаканы</category>
+<category id="15731" parentId="15321">Для Подачи и Хранения</category>
+<category id="15751" parentId="15731">Масленки</category>
+<category id="15761" parentId="15731">Сахарницы и Молочники</category>
+<category id="15771" parentId="15731">Подносы</category>
+<category id="15781" parentId="15731">Подставки</category>
+<category id="15801" parentId="15731">Термосы</category>
+<category id="15821" parentId="11121">Для Бара</category>
+<category id="15831" parentId="15821">Посуда для Алкоголя</category>
+<category id="15841" parentId="15831">Бокалы</category>
+<category id="15851" parentId="15831">Пивные кружки</category>
+<category id="15861" parentId="15831">Рюмки и Стопки</category>
+<category id="15871" parentId="15831">Стаканы</category>
+<category id="15891" parentId="15821">Посуда для Напитков</category>
+<category id="15901" parentId="15891">Кружки и Чашки</category>
+<category id="15911" parentId="15891">Стаканы</category>
+<category id="16041" parentId="15821">Для Подачи на стол</category>
+<category id="16061" parentId="16041">Ведра для льда</category>
+<category id="16081" parentId="16041">Пики и Шпажки</category>
+<category id="16101" parentId="15821">Принадлежности для Бара</category>
+<category id="16141" parentId="16101">Пепельницы</category>
+<category id="16161" parentId="11121">Для Хранения</category>
+<category id="16171" parentId="16161">Наборы</category>
+<category id="16191" parentId="16171">Наборы для охлаждения</category>
+<category id="16221" parentId="16171">Наборы для твердых</category>
+<category id="16241" parentId="16171">Универсальные наборы</category>
+<category id="16251" parentId="16161">Для Жидкостей</category>
+<category id="16301" parentId="16251">Термосы</category>
+<category id="16311" parentId="16161">Для Сыпучих и Твердых</category>
+<category id="16331" parentId="16311">Контейнеры</category>
+<category id="16441" parentId="16161">Универсальные емкости</category>
+<category id="16451" parentId="16441">Универсальные банки</category>
+<category id="16501" parentId="16161">Специальные емкости</category>
+<category id="16511" parentId="16501">Баночки для меда</category>
+<category id="16521" parentId="16161">Для Охлаждения</category>
+<category id="16531" parentId="16521">Ведра для льда</category>
+<category id="16541" parentId="16521">Масленки</category>
+<category id="12711" parentId="11121">Декоративная посуда</category>
+<category id="12781" parentId="12711">Вазы и Кубки</category>
+<category id="12791" parentId="12781">Вазы</category>
+<category id="16561" parentId="11121">Популярные Товары</category>
+<category id="16571" parentId="16561">Бокалы</category>
+<category id="16621" parentId="16561">Кружки</category>
+<category id="16631" parentId="16561">Кувшины</category>
+<category id="16651" parentId="16561">Масленки</category>
+<category id="16681" parentId="16561">Пароварки и Скороварки</category>
+<category id="16721" parentId="16561">Сотейники</category>
+<category id="16741" parentId="16561">Столовые сервизы</category>
+<category id="16751" parentId="16561">Тарелки</category>
+<category id="16771" parentId="16561">Термосы</category>
+<category id="16801" parentId="16561">Чайники</category>
+</categories>
+<offers>
+<offer id="LST-4524-01" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/LST-4524-01.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>910</price>
+<currencyId>RUR</currencyId>
+<categoryId>2992</categoryId>
+<picture>http://photo.mebelion.ru/images/12818b9d509b54985ed20603e2321c3d.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>Lussole</vendor>
+<vendorCode>LST-4524-01</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Светильники</market_category>
+<model>Настольная лампа офисная Warshawa LST-4524-01</model>
+<typePrefix>Настольная лампа</typePrefix>
+<description>Артикул - LST-4524-01, Бренд - Lussole (Италия), Серия - Warshawa, Гарантия, месяцы - 24, Время изготовления, дней - 1, Рекомендуемые помещения - Кабинет, Офис, Ширина, мм - 110, Высота, мм - 370, Цвет плафонов и подвесок - синий, Цвет арматуры - черный, Тип поверхности плафонов и подвесок - матовый, Тип поверхности арматуры - матовый, Материал плафонов и подвесок - сталь, Материал арматуры - полимер, сталь, Лампы - компактная люминесцентная [КЛЛ] ИЛИ&lt;br&gt;накаливания ИЛИ&lt;br&gt;светодиодная [LED], цоколь E14; 220 В; 40 Вт, , Класс электробезопасности - II, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 1, Количество плафонов - 1, Наличие выключателя, диммера или пульта ДУ - выключатель, Компоненты, входящие в комплект - провод электропитания с вилкой без заземления, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Масса, кг - 0,48, Дополнительные параметры - поворотный светильник на прищепке</description>
+<sales_notes>Минимальная сумма заказа 1000 рублей</sales_notes>
+<country_of_origin>Италия</country_of_origin>
+</offer>
+<offer id="ID_821_5PF-LEDWhitegold" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/ID_821_5PF-LEDWhitegold.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>9990</price>
+<currencyId>RUR</currencyId>
+<categoryId>2984</categoryId>
+<picture>http://photo.mebelion.ru/images/7bbe9ab328d8e7ef344a9bddc0383909.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>IDLamp</vendor>
+<vendorCode>ID_821_5PF-LEDWhitegold</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Люстры</market_category>
+<model>Потолочная люстра 821 821/5PF-LEDWhitegold</model>
+<typePrefix>Потолочная люстра</typePrefix>
+<description>Артикул - ID_821_5PF-LEDWhitegold, Бренд - IDLamp (Италия), Серия - 821, Гарантия, месяцы - 24, Время изготовления, дней - 1, Рекомендуемые помещения - Гостиная, Кабинет, Спальня, Высота, мм - 190, Диаметр, мм - 610, Цвет плафонов и подвесок - белый, Цвет арматуры - белый, золото, Тип поверхности плафонов и подвесок - матовый, рельефный, Тип поверхности арматуры - матовый, Материал плафонов и подвесок - стекло, Материал арматуры - металл, Лампы - компактная люминесцентная [КЛЛ] ИЛИ&lt;br&gt;накаливания ИЛИ&lt;br&gt;светодиодная [LED], цоколь E27; 220 В; 60 Вт, , Общая мощность, Вт - 300, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 5, Количество плафонов - 5, Возможность подключения диммера - можно, если установить лампу накаливания, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Дополнительные параметры - светильник декорирован светодиодами</description>
+<sales_notes>Бесплатный самовывоз</sales_notes>
+<country_of_origin>Италия</country_of_origin>
+</offer>
+<offer id="AR_A4300PL-3AB" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/AR_A4300PL-3AB.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>4160</price>
+<currencyId>RUR</currencyId>
+<categoryId>5391</categoryId>
+<picture>http://photo.mebelion.ru/images/e2d8ad9bbe587a4a98d2485dab18b3aa.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>Arte Lamp</vendor>
+<vendorCode>AR_A4300PL-3AB</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Светильники</market_category>
+<model>Спот Costruttore A4300PL-3AB</model>
+<typePrefix>Спот</typePrefix>
+<description>Артикул - AR_A4300PL-3AB, Бренд - Arte Lamp (Италия), Серия - Costruttore, Гарантия, месяцы - 24, Рекомендуемые помещения - Гостиная, Кабинет, Прихожая, Спальня, Длина, мм - 400, Ширина, мм - 150, Выступ, мм - 80, Цвет плафонов и подвесок - бронза античная, Цвет арматуры - бронза античная, Тип поверхности плафонов и подвесок - глянцевый, Тип поверхности арматуры - глянцевый, Материал плафонов и подвесок - металл, Материал арматуры - металл, Лампы - галогеновая ИЛИ&lt;br&gt;светодиодная [LED], цоколь GU10; 220 В; 50 Вт, , Тип колбы лампы - полусферическая с рефлектором, Класс электробезопасности - I, Общая мощность, Вт - 150, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 3, Количество плафонов - 3, Возможность подключения диммера - можно, если установить галогеновую лампу, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Дополнительные параметры - способ крепления светильника к стене и потолку - на монтажной пластине, &lt;br&gt;повоторный светильник</description>
+<sales_notes>Бесплатный самовывоз</sales_notes>
+<country_of_origin>Италия</country_of_origin>
+</offer>
+<offer id="LS_807012" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/LS_807012.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>5889</price>
+<currencyId>RUR</currencyId>
+<categoryId>2986</categoryId>
+<picture>http://photo.mebelion.ru/images/b13266bb8c8402bdb6b838f7aa9d4b96.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>Lightstar</vendor>
+<vendorCode>LS_807012</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Люстры</market_category>
+<model>Подвесной светильник Punto 807012</model>
+<typePrefix>Подвесной светильник</typePrefix>
+<description>Артикул - LS_807012, Бренд - Lightstar (Италия), Серия - Punto, Гарантия, месяцы - 24, Рекомендуемые помещения - Гостиная, Кабинет, Прихожая, Спальня, Высота, мм - 700-1300, Диаметр, мм - 50, Цвет плафонов и подвесок - белый, красный, Цвет арматуры - красный, Тип поверхности плафонов и подвесок - матовый, Тип поверхности арматуры - матовый, Материал плафонов и подвесок - металл, стекло, Материал арматуры - металл, Лампы - галогеновая ИЛИ&lt;br&gt;светодиодная [LED], цоколь G9; 220 В; 40 Вт, , Тип колбы лампы - пальчиковая, Класс электробезопасности - I, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 1, Количество плафонов - 1, Возможность подключения диммера - можно, если установить галогеновую лампу, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Дополнительные параметры - способ крепления светильника к потолку - на крюке, &lt;br&gt;регулируется по высоте</description>
+<sales_notes>Бесплатный самовывоз</sales_notes>
+<country_of_origin>Италия</country_of_origin>
+</offer>
+<offer id="LS_726612" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/LS_726612.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>10944</price>
+<currencyId>RUR</currencyId>
+<categoryId>123264</categoryId>
+<picture>http://photo.mebelion.ru/images/90e6826613461b2063806ddce0e28a63.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>Lightstar</vendor>
+<vendorCode>LS_726612</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Бра</market_category>
+<model>Бра Ronna 726612</model>
+<typePrefix>Бра</typePrefix>
+<weight>2</weight>
+<description>Артикул - LS_726612, Бренд - Lightstar (Италия), Серия - Ronna, Гарантия, месяцы - 24, Время изготовления, дней - 1, Рекомендуемые помещения - Гостиная, Кабинет, Спальня, Ширина, мм - 130, Высота, мм - 380, Выступ, мм - 230, Цвет плафонов и подвесок - розовый, неокрашенный, Цвет арматуры - золото, розовый, Тип поверхности плафонов и подвесок - матовый, Тип поверхности арматуры - глянцевый, рельефный, Материал плафонов и подвесок - текстиль, хрусталь, Материал арматуры - металл, Лампы - компактная люминесцентная [КЛЛ] ИЛИ&lt;br&gt;накаливания ИЛИ&lt;br&gt;светодиодная [LED], цоколь E14; 220 В; 40 Вт, , Класс электробезопасности - I, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 1, Количество плафонов - 1, Возможность подключения диммера - можно, если установить лампу накаливания, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Масса, кг - 2,2, Дополнительные параметры - светильник предназначен для использования со скрытой проводкой</description>
+<sales_notes>Бесплатный самовывоз</sales_notes>
+<country_of_origin>Италия</country_of_origin>
+</offer>
+<offer id="BI_1703_20_360_B_NB" type="vendor.model" available="true">
+<url>http://www.mebelion.ru/catalog/BI_1703_20_360_B_NB.html?utm_source=actionpay&amp;utm_medium=cpa&amp;utm_campaign=xml_svet</url>
+<price>159509</price>
+<oldprice>187658</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3014</categoryId>
+<picture>http://photo.mebelion.ru/images/319fa793246c02160c6095c0faf164f9.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>290</local_delivery_cost>
+<vendor>Bohemia Ivele Crystal</vendor>
+<vendorCode>BI_1703_20_360_B_NB</vendorCode>
+<manufacturer_warranty>true</manufacturer_warranty>
+<market_category>Дом и дача/Освещение/Люстры</market_category>
+<model>Подвесная люстра 1703/20/360/B/NB</model>
+<typePrefix>Подвесная люстра</typePrefix>
+<weight>30</weight>
+<description>Артикул - BI_1703_20_360_B_NB, Бренд - Bohemia Ivele Crystal (Чехия), Серия - 1703, Гарантия, месяцы - 24, Рекомендуемые помещения - Гостиная, Кабинет, Спальня, Высота, мм - 650, Диаметр, мм - 1040, Размер упаковки, мм - 710x710x250, Цвет плафонов и подвесок - неокрашенный, Цвет арматуры - никель черненый, Тип поверхности плафонов и подвесок - прозрачный, Тип поверхности арматуры - глянцевый, рельефный, Материал плафонов и подвесок - хрусталь, Материал арматуры - латунь, Лампы - компактная люминесцентная [КЛЛ] ИЛИ&lt;br&gt;накаливания ИЛИ&lt;br&gt;светодиодная [LED], цоколь E14; 220 В; 40 Вт, , Тип колбы лампы - свеча ИЛИ свеча на ветру, Класс электробезопасности - I, Общая мощность, Вт - 800, Лампы в комплекте - отсутствуют, Общее кол-во ламп - 20, Возможность подключения диммера - можно, если установить лампу накаливания, Степень пылевлагозащиты, IP - 20, Диапазон рабочих температур - комнатная температура, Масса, кг - 30, Дополнительные параметры - способ крепления светильника к потолку - на крюке, &lt;br&gt;указана высота светильника без подвеса</description>
+<sales_notes>Бесплатный самовывоз</sales_notes>
+<country_of_origin>Чехия</country_of_origin>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
